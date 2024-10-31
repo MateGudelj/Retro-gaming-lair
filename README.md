@@ -24,8 +24,8 @@
 
 ### Semester Assignments
 
-- Link to Assignment 1: [**Assignment 1 - Figma essentials**](https://github.com/MateGudelj/Retro-gaming-lair/blob/main/assignments/Figma essentials/Figma%20essentials%20demo.mkv)
-- Link to Assignment 2: [**Assignment 2 - User personas and information architecture**](https://github.com/MateGudelj/Retro-gaming-lair/blob/main/assignments/User personas and information architecture) 
+- Link to Assignment 1: [**Assignment 1 - Figma essentials**](https://github.com/MateGudelj/Retro-gaming-lair/blob/main/assignments/Figma-essentials/Figma%20essentials%20demo.mkv)
+- Link to Assignment 2: [**Assignment 2 - User personas and information architecture**](https://github.com/MateGudelj/Retro-gaming-lair/blob/main/assignments/User-personas-and-information-architecture) 
 - Link to Assignment 3: [**Assignment 3**](URL_TO_ASSIGNMENT_3) <!-- Replace with actual URL -->
 <!-- Add more assignments as necessary -->
 
