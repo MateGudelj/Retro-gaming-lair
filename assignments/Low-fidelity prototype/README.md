@@ -1,0 +1,1 @@
+<img src="Low-fidelity prototype.png" alt="Low-fi prototype" style="width:auto; height:auto;">
