@@ -27,7 +27,9 @@
 - Link to Assignment 1: [**Assignment 1 - Figma essentials**](https://github.com/MateGudelj/Retro-gaming-lair/blob/main/assignments/Figma-essentials/Figma%20essentials%20demo.mkv)
 - Link to Assignment 2: [**Assignment 2 - User personas and information architecture**](https://github.com/MateGudelj/Retro-gaming-lair/blob/main/assignments/User-personas-and-information-architecture)
 - Link to Assignment 3: [**Assignment 3 - Link to very basic Vercel deployment**](https://retro-gaming-lair.vercel.app/)
-- Link to Assignment 4: [**Assignment 3**](URL_TO_ASSIGNMENT_3) <!-- Replace with actual URL -->
+- Link to Assignment 4: [**Assignment 4 - Low-fidelity prototype**](https://github.com/MateGudelj/Retro-gaming-lair/tree/main/assignments/Low-fidelity%20prototype) 
+- Link to Assignment 5: [**Assignment 5**](URL_TO_ASSIGNMENT_5) 
+<!-- Replace with actual URL -->
 <!-- Add more assignments as necessary -->
 
 ## Project Requirements
