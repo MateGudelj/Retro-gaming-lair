@@ -26,27 +26,27 @@ const pages: Page[] = [
   { title: "AccountAndOrders", path: "/accountAndOrders" }
 ];
 
-function processPage(page: Page, index: number, pathname: string) {
+// Convert `processPage` into a functional component
+function ProcessPage({ page, pathname }: { page: Page; pathname: string }) {
   const [isOpen, setIsOpen] = useState(false);
   const timeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   const handleMouseEnter = () => {
-    if (timeoutRef.current) clearTimeout(timeoutRef.current);
+    if (timeoutRef.current) clearTimeout(timeoutRef.current); // Clear any previous timeout
     setIsOpen(true);
   };
 
   const handleMouseLeave = () => {
     timeoutRef.current = setTimeout(() => {
       setIsOpen(false);
-    }, 300);
+    }, 300); // Add a 300ms delay before closing
   };
 
   return (
     <li
-      key={index}
       className="relative group"
-      onMouseEnter={handleMouseEnter}
-      onMouseLeave={handleMouseLeave}
+      onMouseEnter={handleMouseEnter} // Trigger open on hover
+      onMouseLeave={handleMouseLeave} // Trigger close after delay
     >
       <Link
         href={page.path}
@@ -76,10 +76,13 @@ function processPage(page: Page, index: number, pathname: string) {
 
 export function Navigation() {
   const pathname = usePathname();
+
   return (
     <nav className="bg-blue-600 sticky top-0 z-50 shadow-md">
       <ul className="flex justify-center space-x-6 py-4 px-6 max-w-7xl mx-auto">
-        {pages.map((page, index) => processPage(page, index, pathname))}
+        {pages.map((page, index) => (
+          <ProcessPage key={index} page={page} pathname={pathname} />
+        ))}
       </ul>
     </nav>
   );
