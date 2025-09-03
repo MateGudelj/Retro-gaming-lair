@@ -1,3 +1,5 @@
+# ATTENTION 
+## source code is linked under my project links
 # Semester Project <!-- omit in toc -->
 
 - [Project Structure](#project-structure)
@@ -10,7 +12,7 @@
 
 ## Project Structure
 
-- **`/`**: The source code of your main project
+- **`/`**: The source code of main project (not here, linked under my project links)
 - **`/assignments`**: Results of your semester assignments
 - **`/docs`**: If using GitHub for documentation (e.g., your final report in Markdown format)
 
@@ -18,8 +20,9 @@
 
 ### Semester Project
 
-- Link to your production version: [**Production Version**](URL_TO_PRODUCTION_VERSION) <!-- Replace with actual URL -->
-- Link to your final report: [**Final Report**](URL_TO_FINAL_REPORT) <!-- Replace with actual URL -->
+- Link to source code: [**Source code**](https://github.com/MateGudelj/Retro-games-hub-v2)
+- Link to your production version: [**Production Version**](https://retro-games-hub-v2.vercel.app/) <!-- Replace with actual URL -->
+- Link to your final report: [**Final Report**](https://www.notion.so/Project-Report-Retro-Gaming-Hub-RGH-2625bac2d7238033a2e6d43cfa50b466?source=copy_link) <!-- Replace with actual URL -->
 <!-- Add more as necessary -->
 
 ### Semester Assignments
@@ -37,16 +40,16 @@
 
 ### Web Application Requirements
 
-- [ ] The application will be used from a web browser
-- [ ] It will be accessible on devices of different sizes
-- [ ] Users can search/filter products or services
-- [ ] The application will support user login for showing private content
-- [ ] One of the public pages will be a blog containing multiple posts with diverse content (images, videos, code snippets)
-- [ ] Part of the application's content will be stored in a remote headless CMS system
+- [x] The application will be used from a web browser
+- [x] It will be accessible on devices of different sizes
+- [x] Users can search/filter products or services
+- [x] The application will support user login for showing private content
+- [x] One of the public pages will be a blog containing multiple posts with diverse content (images, videos, code snippets)
+- [x] Part of the application's content will be stored in a remote headless CMS system
 
 ### Project Demonstration
 
-- [ ] Show the production version of the project
-- [ ] The production version will be deployed online on an appropriate cloud platform ([Vercel](https://vercel.com), [Netlify](https://www.netlify.com/) or a similar service)
-- [ ] Analyze the application's performance ([PageSpeed Insights](https://pagespeed.web.dev/))
-- [ ] The analysis results will be part of the final report
+- [x] Show the production version of the project
+- [x] The production version will be deployed online on an appropriate cloud platform ([Vercel](https://vercel.com), [Netlify](https://www.netlify.com/) or a similar service)
+- [x] Analyze the application's performance ([PageSpeed Insights](https://pagespeed.web.dev/))
+- [x] The analysis results will be part of the final report
